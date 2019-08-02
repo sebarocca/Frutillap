@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Frutillap</string>
+    <string name="txtNombre">¿Cual es tu nombre?</string>
+    <string name="BtnJugar">Jugar</string>
+
+    <string name="et_vidas">Manzanas</string>
+    <string name="jugador_nombre">Jugador</string>
+    <string name="total_score">Score:</string>
+    <string name="boton_sumar">Comprobar</string>
+    <string name="et_respuesta">Respuesta</string>
+</resources>
